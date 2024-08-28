@@ -1,0 +1,5 @@
+Notebook;6000
+Celular;4000
+Mouse;200
+Teclado;150
+Monitor;1360

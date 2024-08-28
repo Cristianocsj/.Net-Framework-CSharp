@@ -1,0 +1,14 @@
+C:\Users\renan\source\repos\av1\av1\bin\Debug\av1.exe.config
+C:\Users\renan\source\repos\av1\av1\bin\Debug\av1.exe
+C:\Users\renan\source\repos\av1\av1\bin\Debug\av1.pdb
+C:\Users\renan\source\repos\av1\av1\obj\Debug\av1.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\av1\av1\obj\Debug\av1.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\av1\av1\obj\Debug\av1.exe
+C:\Users\renan\source\repos\av1\av1\obj\Debug\av1.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\bin\Debug\av1.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\bin\Debug\av1.exe
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\bin\Debug\av1.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\obj\Debug\av1.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\obj\Debug\av1.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\obj\Debug\av1.exe
+C:\Junior\faculdade\quarto-periodo\LP3\av1\av1\av1\av1\obj\Debug\av1.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|solutionrelative:ex01\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\classes\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|solutionrelative:ex01\\classes\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\classes\\produtousado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B78C3-0E5F-4078-9441-2DF06FF24ED6}|ex01\\ex01.csproj|solutionrelative:ex01\\classes\\produtousado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoImportado.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Classes\\ProdutoImportado.cs",
+              "RelativeDocumentMoniker": "ex01\\Classes\\ProdutoImportado.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Classes\\ProdutoImportado.cs",
+              "RelativeToolTip": "ex01\\Classes\\ProdutoImportado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wBQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:29:03.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoUsado.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Classes\\ProdutoUsado.cs",
+              "RelativeDocumentMoniker": "ex01\\Classes\\ProdutoUsado.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Classes\\ProdutoUsado.cs",
+              "RelativeToolTip": "ex01\\Classes\\ProdutoUsado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:28:47.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Classes\\Produto.cs",
+              "RelativeDocumentMoniker": "ex01\\Classes\\Produto.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Classes\\Produto.cs",
+              "RelativeToolTip": "ex01\\Classes\\Produto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:28:31.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "ex01\\Program.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\ex01\\ex01\\Program.cs*",
+              "RelativeToolTip": "ex01\\Program.cs*",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvzgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:27:41.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

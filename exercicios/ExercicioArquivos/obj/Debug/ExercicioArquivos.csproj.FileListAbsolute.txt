@@ -1,0 +1,7 @@
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\obj\Debug\ExercicioArquivos.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\obj\Debug\ExercicioArquivos.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\bin\Debug\ExercicioArquivos.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\bin\Debug\ExercicioArquivos.exe
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\bin\Debug\ExercicioArquivos.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\obj\Debug\ExercicioArquivos.exe
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioArquivos\obj\Debug\ExercicioArquivos.pdb

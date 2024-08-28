@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\av1\\av1\\av1\\av1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|solutionrelative:av1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\classes\\pfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|solutionrelative:av1\\classes\\pfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\classes\\pjuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|solutionrelative:av1\\classes\\pjuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\classes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9472615-0D75-4621-9038-9B2DADBFC62E}|av1\\av1.csproj|solutionrelative:av1\\classes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Classes\\Pessoa.cs",
+              "RelativeDocumentMoniker": "av1\\Classes\\Pessoa.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Classes\\Pessoa.cs",
+              "RelativeToolTip": "av1\\Classes\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:11:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PJuridica.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Classes\\PJuridica.cs",
+              "RelativeDocumentMoniker": "av1\\Classes\\PJuridica.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Classes\\PJuridica.cs",
+              "RelativeToolTip": "av1\\Classes\\PJuridica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:11:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PFisica.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Classes\\PFisica.cs",
+              "RelativeDocumentMoniker": "av1\\Classes\\PFisica.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Classes\\PFisica.cs",
+              "RelativeToolTip": "av1\\Classes\\PFisica.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:05:34.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Program.cs",
+              "RelativeDocumentMoniker": "av1\\Program.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\av1\\av1\\av1\\av1\\Program.cs",
+              "RelativeToolTip": "av1\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:04:30.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

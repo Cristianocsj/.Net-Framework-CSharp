@@ -1,0 +1,21 @@
+C:\Users\231011\source\repos\Aula02\ex01\bin\Debug\ex01.exe.config
+C:\Users\231011\source\repos\Aula02\ex01\bin\Debug\ex01.exe
+C:\Users\231011\source\repos\Aula02\ex01\bin\Debug\ex01.pdb
+C:\Users\231011\source\repos\Aula02\ex01\obj\Debug\ex01.csproj.AssemblyReference.cache
+C:\Users\231011\source\repos\Aula02\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
+C:\Users\231011\source\repos\Aula02\ex01\obj\Debug\ex01.exe
+C:\Users\231011\source\repos\Aula02\ex01\obj\Debug\ex01.pdb
+C:\Users\231011\Downloads\Aula02\ex01\bin\Debug\ex01.exe.config
+C:\Users\231011\Downloads\Aula02\ex01\bin\Debug\ex01.exe
+C:\Users\231011\Downloads\Aula02\ex01\bin\Debug\ex01.pdb
+C:\Users\231011\Downloads\Aula02\ex01\obj\Debug\ex01.csproj.AssemblyReference.cache
+C:\Users\231011\Downloads\Aula02\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
+C:\Users\231011\Downloads\Aula02\ex01\obj\Debug\ex01.exe
+C:\Users\231011\Downloads\Aula02\ex01\obj\Debug\ex01.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\bin\Debug\ex01.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\bin\Debug\ex01.exe
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\bin\Debug\ex01.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\obj\Debug\ex01.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\obj\Debug\ex01.exe
+C:\Junior\faculdade\quarto-periodo\LP3\Aula02 (2)\Aula02\ex01\obj\Debug\ex01.pdb

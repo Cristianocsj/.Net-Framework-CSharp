@@ -1,0 +1,7 @@
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\obj\Debug\CorrecaoEmp.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\obj\Debug\CorrecaoEmp.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\bin\Debug\CorrecaoEmp.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\bin\Debug\CorrecaoEmp.exe
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\bin\Debug\CorrecaoEmp.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\obj\Debug\CorrecaoEmp.exe
+C:\Junior\faculdade\quarto-periodo\LP3\CorrecaoEmp\obj\Debug\CorrecaoEmp.pdb

@@ -1,0 +1,7 @@
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\bin\Debug\ExercicioAV2.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\bin\Debug\ExercicioAV2.exe
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\bin\Debug\ExercicioAV2.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\obj\Debug\ExercicioAV2.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\obj\Debug\ExercicioAV2.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\obj\Debug\ExercicioAV2.exe
+C:\Junior\faculdade\quarto-periodo\LP3\ExercicioAV2\obj\Debug\ExercicioAV2.pdb

@@ -1,0 +1,7 @@
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\bin\Debug\exercicioBoleto.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\bin\Debug\exercicioBoleto.exe
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\bin\Debug\exercicioBoleto.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\obj\Debug\exercicioBoleto.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\obj\Debug\exercicioBoleto.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\obj\Debug\exercicioBoleto.exe
+C:\Junior\faculdade\quarto-periodo\LP3\exercicioBoleto\obj\Debug\exercicioBoleto.pdb

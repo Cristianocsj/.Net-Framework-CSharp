@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\correcaoemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\correcaoemp\\entities\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|solutionrelative:entities\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\correcaoemp\\services\\contratoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|solutionrelative:services\\contratoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\correcaoemp\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|solutionrelative:services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\correcaoemp\\services\\ionlineservicopagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|solutionrelative:services\\ionlineservicopagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|c:\\junior\\faculdade\\quarto-periodo\\lp3\\correcaoemp\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B013113-CAC5-418B-8B88-679925652384}|CorrecaoEmp.csproj|solutionrelative:entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratoServico.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Services\\ContratoServico.cs",
+              "RelativeDocumentMoniker": "Services\\ContratoServico.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Services\\ContratoServico.cs",
+              "RelativeToolTip": "Services\\ContratoServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:09:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPalService.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Services\\PayPalService.cs",
+              "RelativeDocumentMoniker": "Services\\PayPalService.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Services\\PayPalService.cs",
+              "RelativeToolTip": "Services\\PayPalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:03:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOnlineServicoPagamento.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Services\\IOnlineServicoPagamento.cs",
+              "RelativeDocumentMoniker": "Services\\IOnlineServicoPagamento.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Services\\IOnlineServicoPagamento.cs",
+              "RelativeToolTip": "Services\\IOnlineServicoPagamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:00:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Entities\\Contrato.cs",
+              "RelativeDocumentMoniker": "Entities\\Contrato.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Entities\\Contrato.cs",
+              "RelativeToolTip": "Entities\\Contrato.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:54:08.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parcela.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Entities\\Parcela.cs",
+              "RelativeDocumentMoniker": "Entities\\Parcela.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Entities\\Parcela.cs",
+              "RelativeToolTip": "Entities\\Parcela.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:47:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Junior\\faculdade\\quarto-periodo\\LP3\\CorrecaoEmp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:35:34.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

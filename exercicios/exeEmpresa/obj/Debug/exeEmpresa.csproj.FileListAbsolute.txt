@@ -1,0 +1,7 @@
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\bin\Debug\exeEmpresa.exe.config
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\bin\Debug\exeEmpresa.exe
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\bin\Debug\exeEmpresa.pdb
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\obj\Debug\exeEmpresa.csproj.AssemblyReference.cache
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\obj\Debug\exeEmpresa.csproj.CoreCompileInputs.cache
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\obj\Debug\exeEmpresa.exe
+C:\Junior\faculdade\quarto-periodo\LP3\exeEmpresa\obj\Debug\exeEmpresa.pdb

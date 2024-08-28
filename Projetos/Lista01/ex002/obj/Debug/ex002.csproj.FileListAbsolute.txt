@@ -1,0 +1,7 @@
+C:\Users\Correa\source\repos\Lista01\ex002\bin\Debug\ex002.exe.config
+C:\Users\Correa\source\repos\Lista01\ex002\bin\Debug\ex002.exe
+C:\Users\Correa\source\repos\Lista01\ex002\bin\Debug\ex002.pdb
+C:\Users\Correa\source\repos\Lista01\ex002\obj\Debug\ex002.csproj.AssemblyReference.cache
+C:\Users\Correa\source\repos\Lista01\ex002\obj\Debug\ex002.csproj.CoreCompileInputs.cache
+C:\Users\Correa\source\repos\Lista01\ex002\obj\Debug\ex002.exe
+C:\Users\Correa\source\repos\Lista01\ex002\obj\Debug\ex002.pdb

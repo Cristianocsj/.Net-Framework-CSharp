@@ -1,0 +1,8 @@
+C:\Users\Usu\source\repos\Aula04\ex004\bin\Debug\ex004.exe.config
+C:\Users\Usu\source\repos\Aula04\ex004\bin\Debug\ex004.exe
+C:\Users\Usu\source\repos\Aula04\ex004\bin\Debug\ex004.pdb
+C:\Users\Usu\source\repos\Aula04\ex004\obj\Debug\ex004.csproj.AssemblyReference.cache
+C:\Users\Usu\source\repos\Aula04\ex004\obj\Debug\ex004.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usu\source\repos\Aula04\ex004\obj\Debug\ex004.csproj.CoreCompileInputs.cache
+C:\Users\Usu\source\repos\Aula04\ex004\obj\Debug\ex004.exe
+C:\Users\Usu\source\repos\Aula04\ex004\obj\Debug\ex004.pdb

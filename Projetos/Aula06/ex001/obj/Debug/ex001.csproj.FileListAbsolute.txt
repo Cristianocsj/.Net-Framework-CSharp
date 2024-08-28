@@ -1,0 +1,2 @@
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Aula06\ex001\obj\Debug\ex001.csproj.AssemblyReference.cache
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Aula06\ex001\obj\Debug\ex001.csproj.CoreCompileInputs.cache

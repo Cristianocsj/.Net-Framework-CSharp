@@ -1,0 +1,6 @@
+C:\Users\usu\source\repos\Aula002\ex005\bin\Debug\ex005.exe.config
+C:\Users\usu\source\repos\Aula002\ex005\bin\Debug\ex005.exe
+C:\Users\usu\source\repos\Aula002\ex005\bin\Debug\ex005.pdb
+C:\Users\usu\source\repos\Aula002\ex005\obj\Debug\ex005.csproj.CoreCompileInputs.cache
+C:\Users\usu\source\repos\Aula002\ex005\obj\Debug\ex005.exe
+C:\Users\usu\source\repos\Aula002\ex005\obj\Debug\ex005.pdb

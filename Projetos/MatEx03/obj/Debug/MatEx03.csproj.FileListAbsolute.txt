@@ -1,0 +1,7 @@
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\bin\Debug\MatEx03.exe.config
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\bin\Debug\MatEx03.exe
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\bin\Debug\MatEx03.pdb
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\obj\Debug\MatEx03.csproj.AssemblyReference.cache
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\obj\Debug\MatEx03.csproj.CoreCompileInputs.cache
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\obj\Debug\MatEx03.exe
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\MatEx03\obj\Debug\MatEx03.pdb

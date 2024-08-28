@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ex001
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int res, n1, n2, max = 0;
+
+            Console.Write("Digite o primeiro valor: ");
+            n1 = int.Parse(Console.ReadLine());
+            Console.Write("Digite o segundo valor: "); // Correção aqui
+            n2 = int.Parse(Console.ReadLine());
+            res = Soma(n1, n2, ref max);
+            Console.WriteLine($"O resultado da soma dos valores é: {res}");
+            Console.WriteLine($"O maior valor entre os dois números da soma é: {max}");
+            Console.ReadKey();
+        }
+    }
+    static int Soma(int n1, int n2, ref int max)
+    {
+        int res2;
+        res2 = n1 + n2;
+
+        if (n1 > n2)
+        {
+            max = n1;
+        }
+        else
+        {
+            max = n2;
+        }
+        return res2;
+    }
+}
+

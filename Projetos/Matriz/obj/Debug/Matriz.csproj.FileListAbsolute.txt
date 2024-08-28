@@ -1,0 +1,7 @@
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\bin\Debug\Matriz.exe.config
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\bin\Debug\Matriz.exe
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\bin\Debug\Matriz.pdb
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\obj\Debug\Matriz.exe
+C:\cristiano_jr\faculdade\terceiro-periodo\C#\Matriz\obj\Debug\Matriz.pdb

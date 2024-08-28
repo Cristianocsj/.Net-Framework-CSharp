@@ -1,0 +1,7 @@
+C:\Users\usu\source\repos\Aula002\ex003\bin\Debug\ex003.exe.config
+C:\Users\usu\source\repos\Aula002\ex003\bin\Debug\ex003.exe
+C:\Users\usu\source\repos\Aula002\ex003\bin\Debug\ex003.pdb
+C:\Users\usu\source\repos\Aula002\ex003\obj\Debug\ex003.csproj.CoreCompileInputs.cache
+C:\Users\usu\source\repos\Aula002\ex003\obj\Debug\ex003.exe
+C:\Users\usu\source\repos\Aula002\ex003\obj\Debug\ex003.pdb
+C:\Users\usu\source\repos\Aula002\ex003\obj\Debug\ex003.csproj.AssemblyReference.cache

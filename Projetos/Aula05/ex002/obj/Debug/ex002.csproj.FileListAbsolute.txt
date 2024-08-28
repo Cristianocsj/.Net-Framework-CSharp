@@ -1,0 +1,7 @@
+D:\cristiano_jr\faculdade\Aula05\ex002\bin\Debug\ex002.exe.config
+D:\cristiano_jr\faculdade\Aula05\ex002\bin\Debug\ex002.exe
+D:\cristiano_jr\faculdade\Aula05\ex002\bin\Debug\ex002.pdb
+D:\cristiano_jr\faculdade\Aula05\ex002\obj\Debug\ex002.csproj.AssemblyReference.cache
+D:\cristiano_jr\faculdade\Aula05\ex002\obj\Debug\ex002.csproj.CoreCompileInputs.cache
+D:\cristiano_jr\faculdade\Aula05\ex002\obj\Debug\ex002.exe
+D:\cristiano_jr\faculdade\Aula05\ex002\obj\Debug\ex002.pdb

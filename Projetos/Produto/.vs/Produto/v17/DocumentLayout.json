@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t 14\\OneDrive\\Documentos\\MeusProjetos\\.Net-Framework-C--\\Projetos\\Produto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98EBAA3-603D-4BE7-B541-2C5B234D088A}|Produto.csproj|C:\\Users\\t 14\\OneDrive\\Documentos\\MeusProjetos\\.Net-Framework-C--\\Projetos\\Produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98EBAA3-603D-4BE7-B541-2C5B234D088A}|Produto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98EBAA3-603D-4BE7-B541-2C5B234D088A}|Produto.csproj|c:\\users\\t 14\\onedrive\\documentos\\meusprojetos\\.net-framework-c--\\projetos\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98EBAA3-603D-4BE7-B541-2C5B234D088A}|Produto.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\t 14\\OneDrive\\Documentos\\MeusProjetos\\.Net-Framework-C--\\Projetos\\Produto\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\t 14\\OneDrive\\Documentos\\MeusProjetos\\.Net-Framework-C--\\Projetos\\Produto\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:15:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t 14\\OneDrive\\Documentos\\MeusProjetos\\.Net-Framework-C--\\Projetos\\Produto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\t 14\\OneDrive\\Documentos\\MeusProjetos\\.Net-Framework-C--\\Projetos\\Produto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:15:32.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -22,6 +22,7 @@ namespace Produto
         {
             return _nome;
         }
+
         public void SetNome(string nome)
         {
             if (nome != null && nome.Length > 1)
